@@ -31,6 +31,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='![Image](https://github.com/chelseajoe/Project1_IOS/blob/main/Project1_IOS.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![Image](https://github.com/chelseajoe/Project1_IOS/blob/main/Project1_IOS.gif)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe  
 <!-- Recommended tools:
