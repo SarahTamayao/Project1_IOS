@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[Imgur Image](https://i.imgur.com/0iTZjBy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![Image](Project1_IOS.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe  
